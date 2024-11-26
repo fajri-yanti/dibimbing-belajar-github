@@ -26,3 +26,10 @@ git push origin main
 ```
 ![create repo](asset/_3.png)
 
+6. Pull Request di Github untuk merge ke branch master/main
+
+![create pull request](asset/_4.0.png)
+![create pull request](asset/_4.1.png)
+
+7. Pull remote master/main branch ke local main branch
+![create pull main](asset/_5.png)
